@@ -32,7 +32,7 @@ code
 
 #### Documents and References
 
-| Name - Sources |
+##### Name - Sources 
 
 - Google Identity: Using OAuth 2.0 for Web Server Applications: https://developers.google.com/identity/protocols/oauth2/web-server
 - Google Calendar API: https://developers.google.com/calendar/api/v3/reference

@@ -7,9 +7,11 @@
 
 Challenge: The goal of this project is to integrate Google Calendar into a Django Rest API using OAuth 2.0 authorization.
 
-To run the program, simply run this command:
+- To run the program, simply run this command:
 
- ``` pip install -r requirements.txt ```
+ ```
+ pip install -r requirements.txt
+ ```
 
 - Endpoint:
 ```
